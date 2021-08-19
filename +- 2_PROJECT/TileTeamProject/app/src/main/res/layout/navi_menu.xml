@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/my_page"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:fontFamily="@font/bm_font"
+            android:textStyle="normal"
+            android:textSize="30dp"
+            android:title="계정"
+            />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/settings"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:fontFamily="@font/bm_font"
+            android:textStyle="normal"
+            android:textSize="30dp"
+            android:title="설정"
+            />
+        <item
+            android:id="@+id/board"
+            android:icon="@drawable/board"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:fontFamily="@font/bm_font"
+            android:textStyle="normal"
+            android:textSize="30dp"
+            android:title="게시판"
+            />
+        <item
+            android:id="@+id/butt"
+            android:icon="@drawable/ic_launcher_foreground"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:fontFamily="@font/bm_font"
+            android:textSize="30dp"
+            android:textStyle="normal"
+            android:title="타이머 테스트"
+            />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:fontFamily="@font/bm_font"
+            android:textStyle="normal"
+            android:textSize="30dp"
+            android:title="로그아웃"
+            />
+
+    </group>
+</menu>
