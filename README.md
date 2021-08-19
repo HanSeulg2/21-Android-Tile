@@ -101,3 +101,42 @@ St-03 | 데이터 베이스 관리자 | GPS 위도, 경도 센서 데이터를 �
 - 블루투스 통신
 
 ![image](https://user-images.githubusercontent.com/71927210/130020898-bf5211de-d590-474e-b396-48a0c535bcb8.png)
+
+## 구현
+
+- 구글 Api
+
+![image](https://user-images.githubusercontent.com/71927210/130020975-5a25fd05-f2b3-4427-8400-11a2cd2f575b.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/71927210/130021486-68015755-abe7-4d2a-ab7b-ffa77373bc71.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/71927210/130021691-8d821133-6cac-488d-8e65-4bb56d62c910.png)
+![image](https://user-images.githubusercontent.com/71927210/130021706-cd82e571-2e4b-4de8-ac3f-4de2c5a06ef4.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/71927210/130022216-cdb2f0e7-be92-4224-8050-b89314893c3c.png)
+- 로그아웃
+
+![image](https://user-images.githubusercontent.com/71927210/130022363-92899893-0141-4503-a8c7-3d2f896b7f49.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/71927210/130022376-f6b80d53-05a8-48cb-9f0d-6f9e287ca1ae.png)
+
+- 실시간 위치 데이터
+
+![image](https://user-images.githubusercontent.com/71927210/130022158-9e665ff2-8330-4521-847a-fd30e552e79a.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/71927210/130022417-77a9b7e2-a802-4cb4-8b05-b14db9413d95.png)
+
+- 트래커 지도
+
+![image](https://user-images.githubusercontent.com/71927210/130022453-ddabf085-576f-474c-9054-b5b427ba0ac2.png)
+<br>
+![image](https://user-images.githubusercontent.com/71927210/130022463-d13ead50-2439-4ef2-984f-46970b378cf4.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/71927210/130022474-d1325fa5-fb1a-41b4-9f77-24004bdc8712.png)
+
+- 블루투스 통신
+
+![image](https://user-images.githubusercontent.com/71927210/130022176-c3d889de-d930-4129-8fb1-dfe0c6a66f8c.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/71927210/130022490-355845cd-2ea1-4b1e-b6b5-1ac87daccd84.png)
+
