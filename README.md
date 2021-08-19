@@ -5,3 +5,6 @@
 - Database : Firebase
 - 형성관리 : github
 - hardware : GPS, Bluetooth 
+
+## 특징목록
+
